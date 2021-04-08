@@ -1,4 +1,4 @@
-//模版方法策略模式
+//模版方法模式
 #include<stdio.h>
 
 class A
